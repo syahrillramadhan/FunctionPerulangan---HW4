@@ -1,6 +1,6 @@
 # Rakamin - Homework 4 perulangan & version control
 
-This automation is written in Javascript selenium using page object model
+This task homework do crete looping with javascript vanilla
 
 ## Cloning a repository
 First, you can clone this project using the command
